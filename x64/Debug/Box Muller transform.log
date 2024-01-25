@@ -1,0 +1,6 @@
+﻿  Преобразование Бокса-Мюллера.cpp
+D:\Проекты Visual studio\Box Muller transform\Преобразование Бокса-Мюллера.cpp(28,34): warning C4305: инициализация: усечение из "double" в "float"
+D:\Проекты Visual studio\Box Muller transform\Преобразование Бокса-Мюллера.cpp(266,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Проекты Visual studio\Box Muller transform\Преобразование Бокса-Мюллера.cpp(895,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Проекты Visual studio\Box Muller transform\Преобразование Бокса-Мюллера.cpp(910,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Box Muller transform.vcxproj -> D:\Проекты Visual studio\Box Muller transform\x64\Debug\Box Muller transform.exe
